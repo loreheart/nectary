@@ -48,6 +48,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 DEBUG = True
 
 ALLOWED_HOSTS.append('*.loreheart.com')
+ALLOWED_HOSTS.append('nectary-nonpf.ondigitalocean.app')
+
 
 
 # Application definition
