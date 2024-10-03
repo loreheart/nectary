@@ -1,0 +1,2042 @@
+[
+  {
+    "model": "nectar.Site",
+    "pk": 1,
+    "fields": {
+        "company_name": "Portland Story Tellers",
+        "website_url": "https://www.portlandstorytellers.org/",
+        "company_description": "\"We are a guild of listeners, beginning storytellers, intermediate, experienced and professional storytellers devoted to continuing this time-honored oral tradition.\"",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 2,
+    "fields": {
+        "company_name": "Rose City Astronomers",
+        "website_url": "https://www.rosecityastronomers.net/",
+        "company_description": "Astronomy Peeps",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 3,
+    "fields": {
+        "company_name": "Pixie Project",
+        "website_url": "https://www.pixieproject.org/",
+        "company_description": "pet adpotion ",
+        "discovered_date": "08/07/24",
+        "outreach_date": " ",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 4,
+    "fields": {
+        "company_name": "House of Dreams",
+        "website_url": "https://www.kittydreams.org/",
+        "company_description": "pet adpotion ",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "Wix",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 5,
+    "fields": {
+        "company_name": "Portland Insectarium",
+        "website_url": "https://www.pdxinsectarium.org/",
+        "company_description": "museum/ zoo for insects",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 6,
+    "fields": {
+        "company_name": "Oregon Maritime Museum",
+        "website_url": "https://www.oregonmaritimemuseum.org/",
+        "company_description": "Maritime museum ",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 7,
+    "fields": {
+        "company_name": "Cats in the City",
+        "website_url": "https://catsinthecity.com/",
+        "company_description": "Cat Grooming",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 8,
+    "fields": {
+        "company_name": "Oregon Rail Heritage Center",
+        "website_url": "https://orhf.org/",
+        "company_description": "museum",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 9,
+    "fields": {
+        "company_name": "Luc Lac",
+        "website_url": "https://luclackitchen.com/",
+        "company_description": "Vietamese Kitchen ",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 10,
+    "fields": {
+        "company_name": "Eye Group Assocaites ",
+        "website_url": "https://www.eyegroupassociates.com/",
+        "company_description": "Optomertists ",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 11,
+    "fields": {
+        "company_name": "Paikea Mediatition ",
+        "website_url": "https://paikeamediation.com/",
+        "company_description": " Mediation ",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 12,
+    "fields": {
+        "company_name": "Blyss Chiropractic",
+        "website_url": "https://www.drblyss.com/",
+        "company_description": "Chriopatrior ",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 13,
+    "fields": {
+        "company_name": "Caiman Cafe",
+        "website_url": "https://caimancafe.com/",
+        "company_description": "Cafe",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 14,
+    "fields": {
+        "company_name": "Madeline Warnick Counseling",
+        "website_url": "https://www.madelinewarnickcounseling.com/",
+        "company_description": "Counseling",
+        "discovered_date": "08/07/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "Madeline Warnick",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "Square Space",
+        "contact_method": "Contact Me form ",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 15,
+    "fields": {
+        "company_name": "ND Therapists ",
+        "website_url": "https://ndtherapists.com/",
+        "company_description": "Counseling Directory",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 16,
+    "fields": {
+        "company_name": "New Leaves Clincic",
+        "website_url": "https://newleavesclinic.com/",
+        "company_description": "ND focused therapy clinic",
+        "discovered_date": "08/07/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 17,
+    "fields": {
+        "company_name": "Thunder Kitty",
+        "website_url": "https://thunder-kitty-games-gifts.square.site/",
+        "company_description": "Game Shop",
+        "discovered_date": "08/08/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "Anan Kanyaluck",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "Square - payment only maybe> ",
+        "contact_method": "Email",
+        "email": "THUNDERKITTYGAMES@YAHOO.COM",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 18,
+    "fields": {
+        "company_name": "Gambits Games",
+        "website_url": "https://gambits-games-and-anime.square.site/",
+        "company_description": "Game Shop",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "William Jerome",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "Square - payment only maybe> ",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "971-255-2130",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 19,
+    "fields": {
+        "company_name": "Stumptown Otaku",
+        "website_url": "https://www.stumptownotaku.com/",
+        "company_description": "Gift Shop",
+        "discovered_date": "08/08/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "Tommy Ly",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "Wix",
+        "contact_method": "Contact US form ",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 20,
+    "fields": {
+        "company_name": "Otherworld Games",
+        "website_url": "https://otherworldsgames.com/",
+        "company_description": "Comic & Games Shop",
+        "discovered_date": "08/08/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "Ronald Connell,",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "WordPress",
+        "contact_method": "Email",
+        "email": "play@otherworldsgames.com",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 21,
+    "fields": {
+        "company_name": "The Whole Bowl",
+        "website_url": "https://thewholebowl.com/",
+        "company_description": "Food Cart",
+        "discovered_date": "08/08/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "HTML/JS/CSS",
+        "contact_method": "Contact Us/ Feedback form ",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 22,
+    "fields": {
+        "company_name": "Bubble Tea Artist",
+        "website_url": "https://bubbleteaartist.com/",
+        "company_description": "Bubble Tea Shop",
+        "discovered_date": "08/08/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "YIn Na",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "WordpPress",
+        "contact_method": "email (linked from ask us about franchaise oppurunties ) ",
+        "email": "info@bubbleteaartist.com",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 23,
+    "fields": {
+        "company_name": "The Lair Salon",
+        "website_url": "https://thelairsalon.net/",
+        "company_description": "Hair Salon",
+        "discovered_date": "08/08/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "Mish, Tami",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "WordPress",
+        "contact_method": "email (linked from join our team) ",
+        "email": "steelroseshee@yahoo.com,",
+        "phone_number": "(503) 234 0929",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 24,
+    "fields": {
+        "company_name": "ENJOY CO Hair Studio",
+        "website_url": "https://enjoycohairstudio.com/",
+        "company_description": "Hair Salon",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 25,
+    "fields": {
+        "company_name": "Juniper Salon ",
+        "website_url": "https://www.junipersalonpdx.com/",
+        "company_description": "Hair Salon",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 26,
+    "fields": {
+        "company_name": "Evolution Hair Desgin",
+        "website_url": "https://evolutionhairdesign.com/",
+        "company_description": "Hair Salon",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 27,
+    "fields": {
+        "company_name": "Western Pet Supply",
+        "website_url": "https://westernpetpdx.com/",
+        "company_description": "Pet Supply Store",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 28,
+    "fields": {
+        "company_name": "Salty's & Fangs ",
+        "website_url": "https://portlandpetstores.com/",
+        "company_description": "Pet Supply Store",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 29,
+    "fields": {
+        "company_name": "Portland Pet Supply",
+        "website_url": "https://portlandpetsupply.com/",
+        "company_description": "Pet Supply Store",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 30,
+    "fields": {
+        "company_name": "Hip Hound",
+        "website_url": "https://hiphoundshop.com/",
+        "company_description": "Pet Supply Store",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 31,
+    "fields": {
+        "company_name": "Four Paws",
+        "website_url": "http://www.forpawspdx.com/",
+        "company_description": "Pet Supply Store",
+        "discovered_date": "08/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 32,
+    "fields": {
+        "company_name": "Cloud Cap Games",
+        "website_url": "https://cloudcapgames.com/",
+        "company_description": "Game Shop",
+        "discovered_date": "08/09/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "Alex and Ty.",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "email ",
+        "email": "info@cloudcapgames.com",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 33,
+    "fields": {
+        "company_name": "Oregon Community Alliance of Tennants",
+        "website_url": "https://www.oregoncat.org/",
+        "company_description": "Non-profit Renter's Rights",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 34,
+    "fields": {
+        "company_name": "Ordo Fanaticus",
+        "website_url": "https://www.ordofanaticus.com/index.html/",
+        "company_description": "Board Game Club",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 35,
+    "fields": {
+        "company_name": "Spartan Shop",
+        "website_url": "https://spartan-shop.com/",
+        "company_description": "Art Gallery",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 36,
+    "fields": {
+        "company_name": "Beau Thai",
+        "website_url": "https://www.beauthai.com/index.html",
+        "company_description": "Thai Food Resturant",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 37,
+    "fields": {
+        "company_name": "Oni Press",
+        "website_url": "https://www.onipress.com/",
+        "company_description": "Comic Publishers",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 38,
+    "fields": {
+        "company_name": "1985 Games",
+        "website_url": "https://1985games.com/",
+        "company_description": "Game shop",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 39,
+    "fields": {
+        "company_name": "Davy Jones Lock Hair",
+        "website_url": "https://www.davyjoneslockhair.com/",
+        "company_description": "Hair Salon",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 40,
+    "fields": {
+        "company_name": "Hour Noon",
+        "website_url": "https://hournoon.com/",
+        "company_description": "Tattoo shop",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 41,
+    "fields": {
+        "company_name": "Fern Gully Tattoo Studio",
+        "website_url": "https://www.ferngullystudio.com/",
+        "company_description": "Tattoo shop",
+        "discovered_date": "08/13/24",
+        "outreach_date": "09/24/24",
+        "contact_name": "Christina & Jess",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "email ",
+        "email": "christina@ferngullystudio.com, ",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 42,
+    "fields": {
+        "company_name": "Grand Ave Florist",
+        "website_url": "https://www.grandaveflorist.com/",
+        "company_description": "Florist",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 43,
+    "fields": {
+        "company_name": "Sugar Magonila Massage",
+        "website_url": "https://sugarmagnoliamassage.com/",
+        "company_description": "Massage Palor",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 44,
+    "fields": {
+        "company_name": "Sidequest Fabrictations",
+        "website_url": "https://www.sidequestfabrication.com/",
+        "company_description": "Machining, engraving and fabrication",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 45,
+    "fields": {
+        "company_name": "Ballons on Broadway",
+        "website_url": "https://www.balloonsonbroadway.com/",
+        "company_description": "Bulk and Custom Ballons",
+        "discovered_date": "08/13/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 46,
+    "fields": {
+        "company_name": "Fossil Cartel",
+        "website_url": "https://fossilcartel.com/",
+        "company_description": "Jewerly, Rock & Gift Shop",
+        "discovered_date": "08/13/24",
+        "outreach_date": "09/24/24",
+        "contact_name": "Susan Landa",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "Wordpress",
+        "contact_method": "email",
+        "email": "Info@fossilcartel.com",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 47,
+    "fields": {
+        "company_name": "Gary's Meadow Fresh",
+        "website_url": "https://garrysmeadowfresh.com/",
+        "company_description": "Dairy Farm",
+        "discovered_date": "08/24/24",
+        "outreach_date": "09/24/24",
+        "contact_name": "Garry and Lacey Hansen",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "React / Go Daddy Website Builder (lady lane) ",
+        "contact_method": "email",
+        "email": "Info@ladylanefarm.com",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 48,
+    "fields": {
+        "company_name": "Lady Lane Farm",
+        "website_url": "https://ladylanefarm.com/",
+        "company_description": "Dairy Farm",
+        "discovered_date": "08/24/24",
+        "outreach_date": "09/24/24",
+        "contact_name": "Garry and Lacey Hansen",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "React / Go Daddy Website Builder (lady lane) ",
+        "contact_method": "email",
+        "email": "Info@ladylanefarm.com",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 49,
+    "fields": {
+        "company_name": "Pimp my drawing",
+        "website_url": "https://pimpmydrawing.com/",
+        "company_description": "THIS IS A FREE LIBRARY OF CAD PEOPLE, DWG PEOPLE, SILHOUETTES, PERSONS & VECTOR PEOPLE FOR YOUR DRAWINGS\\nNOW ALSO FEATURING CAD TREES, DWG CARS AND VECTOR PLANTS. HOPE YOU LIKE IT!",
+        "discovered_date": "08/26/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 50,
+    "fields": {
+        "company_name": "Open peeps",
+        "website_url": "https://www.openpeeps.com/",
+        "company_description": "A hand-drawn illustration library.",
+        "discovered_date": "08/26/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 51,
+    "fields": {
+        "company_name": "COMC",
+        "website_url": "https://www.comc.com/",
+        "company_description": "TCG Singles site",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": "Also https://www.comc.com/"
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 52,
+    "fields": {
+        "company_name": "Card Flgiht",
+        "website_url": "https://www.cardflight.com/",
+        "company_description": "Fintech - Card payment trasaction service",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 53,
+    "fields": {
+        "company_name": "Smarty Party Clothing Co.",
+        "website_url": "https://shop.thesciencemaven.com/",
+        "company_description": "Raven the Science Maven's badass clothes :) ",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 54,
+    "fields": {
+        "company_name": "Cucina Fresca",
+        "website_url": "https://www.cucinafresca.com/",
+        "company_description": "Gorument Foods",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 55,
+    "fields": {
+        "company_name": "Heart of the Gorge Sailing",
+        "website_url": "https://www.heartofthegorgesailing.com/",
+        "company_description": "Sailing on the Columbia River",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 56,
+    "fields": {
+        "company_name": "Portland Defender",
+        "website_url": "https://portlanddefender.com/",
+        "company_description": "Troy Pickard Attroney at Law",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 57,
+    "fields": {
+        "company_name": "Sisters of Prepentual Indulgence",
+        "website_url": "https://www.thesisters.org/",
+        "company_description": "Queer non profit",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": "https://www.thesisters.org/kay"
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 58,
+    "fields": {
+        "company_name": "Kunokuniya",
+        "website_url": "https://usa.kinokuniya.com/",
+        "company_description": "Book store",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 59,
+    "fields": {
+        "company_name": "Gatti Law",
+        "website_url": "https://www.gattilaw.com/",
+        "company_description": "personal injury law firm",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 60,
+    "fields": {
+        "company_name": "Underdog Law",
+        "website_url": "https://underdoglawyer.com/",
+        "company_description": "Michael Fuller Attorney at Law (landlord tennat)",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 61,
+    "fields": {
+        "company_name": "Murphy Law Group",
+        "website_url": "https://www.oregonlandlord.net/",
+        "company_description": "law Firm",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 62,
+    "fields": {
+        "company_name": "Swag NW",
+        "website_url": "https://www.swagnw.com/",
+        "company_description": "custom embrodiary ",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 63,
+    "fields": {
+        "company_name": "Symbipop Garden Shop",
+        "website_url": "https://gardenshop.symbiop.com/",
+        "company_description": "Plants & Landscaping",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 64,
+    "fields": {
+        "company_name": "Portland Nursey",
+        "website_url": "https://www.portlandnursery.com/",
+        "company_description": "Plants & Landscaping",
+        "discovered_date": "09/01/24",
+        "outreach_date": "09/24/24",
+        "contact_name": "Jon Denney",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "Email",
+        "email": "jobs@portlandnursery.com",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 65,
+    "fields": {
+        "company_name": "Prescion Images",
+        "website_url": "https://www.precisionimages.com/",
+        "company_description": "Printing",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 66,
+    "fields": {
+        "company_name": "Birds & Bees Nursery ",
+        "website_url": "https://birdsandbeespdx.com/",
+        "company_description": "Plants & Landscaping",
+        "discovered_date": "09/01/24",
+        "outreach_date": "09/24/24",
+        "contact_name": "Caitlin Gaul and Amanda Lepley Simard",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "Wordpress",
+        "contact_method": "Contact Form ",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 67,
+    "fields": {
+        "company_name": "Keeper Coffee Co",
+        "website_url": "https://keepercoffee.com/",
+        "company_description": "Coffee Shop",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 68,
+    "fields": {
+        "company_name": "Proud Mary Coffee",
+        "website_url": "https://proudmarycoffee.com/",
+        "company_description": "Coffee Shop",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 69,
+    "fields": {
+        "company_name": "Stictch Works Lylod",
+        "website_url": "https://www.stitchworkslloyd.com/index.html",
+        "company_description": "custom embrodiary ",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 70,
+    "fields": {
+        "company_name": "Donna Gigguere Landscape Designs",
+        "website_url": "https://giguerelandscapedesign.com/",
+        "company_description": "Landscaping",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 71,
+    "fields": {
+        "company_name": "Noble root",
+        "website_url": "https://nobleroot.com/",
+        "company_description": "Landscaping",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 72,
+    "fields": {
+        "company_name": "Rebel Cricket",
+        "website_url": "https://www.rebelcricket.com/",
+        "company_description": "Screen printing",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 73,
+    "fields": {
+        "company_name": "Books with Pictures",
+        "website_url": "https://bookswithpictures.com/",
+        "company_description": "Comic Shop",
+        "discovered_date": "09/01/24",
+        "outreach_date": "09/23/24",
+        "contact_name": "Kaite",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "WordPress",
+        "contact_method": "Email",
+        "email": "bookswpictures@gmail.com",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 74,
+    "fields": {
+        "company_name": "Dragon Herbarium",
+        "website_url": "https://dragonherbarium.com/",
+        "company_description": "apothecary ",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 75,
+    "fields": {
+        "company_name": "Primrose Apthoecary",
+        "website_url": "https://primroseapothecary.com/",
+        "company_description": "apothecary ",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 76,
+    "fields": {
+        "company_name": "Seagrape Apthoecary",
+        "website_url": "https://seagrapeapothecary.com/",
+        "company_description": "apothecary ",
+        "discovered_date": "09/01/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 77,
+    "fields": {
+        "company_name": "Lecare Pharmacy",
+        "website_url": "https://www.lecarepharmacy.com/",
+        "company_description": "Compunding pharmacy",
+        "discovered_date": "09/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 78,
+    "fields": {
+        "company_name": "PS Taboo",
+        "website_url": "https://www.pstaboo.com/",
+        "company_description": "Consulting Agency",
+        "discovered_date": "09/08/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 79,
+    "fields": {
+        "company_name": "Science Maven",
+        "website_url": "https://thesciencemaven.com/",
+        "company_description": "Sci Comm",
+        "discovered_date": "09/10/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 80,
+    "fields": {
+        "company_name": "You're Wrong About",
+        "website_url": "https://yourewrongabout.com/",
+        "company_description": "Podcast",
+        "discovered_date": "09/10/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 81,
+    "fields": {
+        "company_name": "Sarah Marhsall",
+        "website_url": "https://www.remembersarahmarshall.com/",
+        "company_description": "Podcaster/Writer",
+        "discovered_date": "09/10/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 82,
+    "fields": {
+        "company_name": "Maxium Fun",
+        "website_url": "https://maximumfun.org/",
+        "company_description": "Podcasts",
+        "discovered_date": "09/10/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 83,
+    "fields": {
+        "company_name": "Chelsey Weber Smith",
+        "website_url": "https://www.chelseywebersmith.com/",
+        "company_description": "Podcaster/Writer",
+        "discovered_date": "09/10/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 84,
+    "fields": {
+        "company_name": "Nina's Creations",
+        "website_url": "https://ninascreations.com/shop",
+        "company_description": "Jewerly Vendor at Portland Saturday Market",
+        "discovered_date": "09/11/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 85,
+    "fields": {
+        "company_name": "Nil Organic Tea",
+        "website_url": "https://nilorganictea.com/",
+        "company_description": "Tea vendor at  Portland Saturday Market",
+        "discovered_date": "09/11/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 86,
+    "fields": {
+        "company_name": "Odd Fox and Fern",
+        "website_url": "https://www.oddfoxandfern.com/",
+        "company_description": "Art vendor at  Portland Saturday Market",
+        "discovered_date": "09/11/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 87,
+    "fields": {
+        "company_name": "One Fork Carmels ",
+        "website_url": "https://www.oneforkfarm.com/",
+        "company_description": "Carmel Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 88,
+    "fields": {
+        "company_name": "Oregon Leather Craft",
+        "website_url": "https://www.oregonleathercraft.com/",
+        "company_description": "Leather Goods Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 89,
+    "fields": {
+        "company_name": "Out of the Cloest Wear",
+        "website_url": "http://outoftheclosetartwear.com/index.html",
+        "company_description": "Tie Dye Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 90,
+    "fields": {
+        "company_name": "Pane Pen to Jewerly Designs",
+        "website_url": "https://panepentojewelrydesigns.com/",
+        "company_description": "Jewerly Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 91,
+    "fields": {
+        "company_name": "Rich Glass Studio",
+        "website_url": "https://richglassstudio.square.site/",
+        "company_description": "Blown Glass Vendor art  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 92,
+    "fields": {
+        "company_name": "PDX Coasters",
+        "website_url": "https://pdxcoasters.com/",
+        "company_description": "Coaster Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 93,
+    "fields": {
+        "company_name": "KT Rocks",
+        "website_url": "https://ktrocks.net/",
+        "company_description": "Artisinal Gemstone Jewerly Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 94,
+    "fields": {
+        "company_name": "The Spoiled Cat",
+        "website_url": "https://www.thespoiledcat.com/",
+        "company_description": "cat nip product vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 95,
+    "fields": {
+        "company_name": "Tiny Owl Jewerly",
+        "website_url": "https://www.tinyowljewelry.com/",
+        "company_description": "Jewerly Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 96,
+    "fields": {
+        "company_name": "Touch the Sky",
+        "website_url": "https://www.touchthesky.net/",
+        "company_description": "Leather Books Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 97,
+    "fields": {
+        "company_name": "What if Creations",
+        "website_url": "https://whatifcreations.com/",
+        "company_description": "Hybrid Animal Art & Gift Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 98,
+    "fields": {
+        "company_name": "Moon Light Lamps",
+        "website_url": "https://moonlightlampstore.com/",
+        "company_description": "Lamp Vendor  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 99,
+    "fields": {
+        "company_name": "Moonstruck Desgins",
+        "website_url": "https://moonstruckdesignspdx.com/",
+        "company_description": "Jewerly Vendor at  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 100,
+    "fields": {
+        "company_name": "Kyle's Gallery",
+        "website_url": "https://kylesgallery.com/",
+        "company_description": "Star Wars in classic Art prints  Portland Saturday Market",
+        "discovered_date": "09/12/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 101,
+    "fields": {
+        "company_name": "Loupe",
+        "website_url": "https://loupe.team/",
+        "company_description": "Robots",
+        "discovered_date": "09/16/24",
+        "outreach_date": "",
+        "contact_name": "",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "",
+        "contact_method": "",
+        "email": "",
+        "phone_number": "",
+        "notes": ""
+    }
+},
+{
+    "model": "nectar.Site",
+    "pk": 102,
+    "fields": {
+        "company_name": "Top of the Line Games",
+        "website_url": "https://totlgames.com/",
+        "company_description": "retro games",
+        "discovered_date": "09/23/24",
+        "outreach_date": "",
+        "contact_name": "Lindsay Frey",
+        "followup_date": "",
+        "meeting_notes": "",
+        "next_step": "",
+        "built_with": "Sqaurespace",
+        "contact_method": "email ",
+        "email": "TOTLdesktop@gmail.com",
+        "phone_number": "",
+        "notes": ""
+    }
+  }
+]
