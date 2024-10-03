@@ -52,6 +52,10 @@ DEBUG = True
 ALLOWED_HOSTS.append('*.loreheart.com')
 ALLOWED_HOSTS.append('nectary-nonpf.ondigitalocean.app')
 
+CORS_ALLOWED_ORIGINS = [
+    '*.loreheart.com',
+    '127.0.0.1',
+]
 
 
 # Application definition
